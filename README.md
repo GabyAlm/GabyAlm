@@ -11,6 +11,40 @@
 - 💻 Visit my [Portfolio]() for more details about me.
 <!--End Intro-->
 
+<h3>🎓 Education</h3>
+<ul>
+  <li><strong>Bachelor's in Chemical Engineering</strong></li>
+  <li><strong>MBA in Technology for Business</strong> (focus on AI, Data Science, and Big Data) – Currently pursuing at PUCRS</li>
+</ul>
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ</h2> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI techniques, focusing on supervised and unsupervised learning.</li>
+  <li>Exploring advanced Python concepts and state management techniques for large-scale applications.</li>
+  <li>Improving my skills in cloud computing, specifically with AWS and Azure, for deploying scalable machine learning models.</li>
+</ul>
+
+<h3 align="left">Technologies & Tools</h3>
+<ul align="left">
+  <li>Python (Pandas, NumPy, scikit-learn, TensorFlow)</li>
+  <li>SQL (Database Management, Advanced Queries)</li>
+  <li>Data Visualization: Power BI, Tableau</li>
+  <li>Web Development: HTML, CSS</li>
+  <li>Cloud: AWS, Azure</li>
+  <li>Version Control: Git, GitHub</li>
+</ul>
+
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
