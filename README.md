@@ -20,11 +20,11 @@
 <img src="./gmail.png" width=50 height=50 alt="gabysalmeida5@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="[https://github.com/GabyAlm]" target="_blank">
+<a href="https://github.com/GabyAlm" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
 </a>
 
-<a href="(https://www.linkedin.com/in/gabriela-rodrigues-almeida/)" target="_blank">
+<a href="https://www.linkedin.com/in/gabriela-rodrigues-almeida" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
